@@ -51,12 +51,25 @@ header {
     align-items: center;
 }
 
+.nav {
+    display: flex;
+    align-items: center;
+}
 
 .nav a {
     padding: 0 2em;
     font-size: 1rem;
     font-weight: 500;
     color: #464444;
+}
+
+.campaign {
+    border: 5px solid red;
+    padding: 0.5em 0;
+}
+
+.campaign a {
+    color: red;
 }
 
 .pa {
@@ -68,7 +81,6 @@ header {
     margin-top: 1em;
     background: url("images/bkgrnd.png");
     background-size: cover;
-    background-repeat: repeat-y;
     height: 100vh;
 }
 
@@ -84,6 +96,10 @@ header {
     border: 5px solid #fff;
     background: #fcfbfb;
     padding: 0.5em;
+}
+
+.paragraphab p{
+	padding: 1em 5em;
 }
 
 .hom-foot {
@@ -257,3 +273,71 @@ header {
     margin-bottom: 4em;
 }
 
+/*.............	About..............*/
+
+.home-pages {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background: url("images/about-page-bg.svg");
+	background-size: cover;
+	background-color: rgba(142, 135, 135, 0.071);
+	height: 100vh;
+}
+
+.paragraphab {
+	margin-top: 3em;
+	width: 60%;
+	border: 5px solid #fff;
+	background: #fff;
+	line-height: 2em;
+}
+
+.hom-foots {
+	margin-top: 3em;
+	padding-left: 8em;
+	text-align: center;
+}
+
+.hom-foots p,h4 {
+	font-size: 1.5rem;
+}
+
+.m-page {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.primary p {
+	padding-top: 2em;
+	font-size: 2rem;
+	font-weight: 600;
+	color: #545862;
+}
+.secondary {
+	padding: 1.5em;
+	width: 47%;
+}
+
+.third {
+	margin-top: 2em;
+	border: 2px solid rgb(242, 234, 234);
+	padding: 1em 8em;
+}
+
+hr {
+	margin-top: 3em;
+}
+
+.footers {
+	background: black;
+}
+
+.copys {
+	display: flex;
+}
+
+.copys p {
+	color: white;
+}
