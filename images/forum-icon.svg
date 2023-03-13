@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="10.892348mm"
+   height="10.918147mm"
+   viewBox="0 0 10.892348 10.918147"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="forum-icon.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview38"
+     pagecolor="#272a31"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="10.897017"
+     inkscape:cx="13.352278"
+     inkscape:cy="29.274067"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5">
+    <inkscape:grid
+       type="xygrid"
+       id="grid19585"
+       originx="0.16695399"
+       originy="0.15151738" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <symbol
+       id="blank">
+      <title
+         id="title2496">Blank</title>
+      <rect
+         x="1"
+         y="1"
+         width="70"
+         height="70"
+         rx="6"
+         style="fill:none;stroke:#000000;stroke-width:2"
+         id="rect2498" />
+    </symbol>
+    <symbol
+       id="RightAndDownArrow">
+      <title
+         id="title4982">Right and Down Arrow</title>
+      <path
+         d="M 56,56 H 24 L 13,45 H 37 L 14,22 22,14 45,37 V 13 l 11,11 z"
+         style="stroke:none"
+         id="path4984" />
+    </symbol>
+    <symbol
+       id="SquaredBalloon"
+       style="stroke-linejoin:miter;stroke-miterlimit:10">
+      <title
+         id="title7337">Squared Balloon</title>
+      <rect
+         x="80"
+         y="65"
+         width="250"
+         height="140"
+         rx="17"
+         style="stroke:none"
+         id="rect7339" />
+      <path
+         d="m 126,199 25,43 30,-43"
+         style="stroke:none"
+         id="path7341" />
+      <rect
+         x="75"
+         y="60"
+         width="250"
+         height="140"
+         rx="15"
+         style="fill:#eeeeee;stroke-width:3.5"
+         id="rect7343" />
+      <path
+         d="m 120,195 25,43 30,-43"
+         style="fill:#eeeeee;stroke-width:3.5"
+         id="path7345" />
+      <rect
+         x="80"
+         y="65"
+         width="235"
+         height="125"
+         rx="10"
+         style="fill:#ffffff;stroke:none"
+         id="rect7347" />
+      <path
+         d="m 118,180 25,43 30,-43"
+         style="fill:#ffffff;stroke:none"
+         id="path7349" />
+    </symbol>
+    <symbol
+       id="RoundedBalloon"
+       style="stroke-linejoin:miter;stroke-miterlimit:10">
+      <title
+         id="title7322">Rounded Balloon</title>
+      <rect
+         x="80"
+         y="65"
+         width="250"
+         height="120"
+         rx="32"
+         style="stroke:none"
+         id="rect7324" />
+      <path
+         d="m 124,179 -30,53 78,-53"
+         style="stroke:none"
+         id="path7326" />
+      <rect
+         x="75"
+         y="60"
+         width="250"
+         height="120"
+         rx="30"
+         style="fill:#eeeeee;stroke-width:3.5"
+         id="rect7328" />
+      <path
+         d="m 120,175 -30,53 78,-53"
+         style="fill:#eeeeee;stroke-width:3.5"
+         id="path7330" />
+      <rect
+         x="80"
+         y="65"
+         width="235"
+         height="105"
+         rx="25"
+         style="fill:#ffffff;stroke:none"
+         id="rect7332" />
+      <path
+         d="m 132,160 -30,53 78,-53"
+         style="fill:#ffffff;stroke:none"
+         id="path7334" />
+    </symbol>
+  </defs>
+  <path
+     id="rect9080-3"
+     style="fill:#ec5242;fill-opacity:1;stroke:#ffffff;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+     d="m 10.497496,4.725627 c 0.107938,0 0.194852,0.2156512 0.194852,0.4834183 v 3.2185701 c 0,0.2677671 -0.08691,0.4832929 -0.194852,0.4832929 H 5.7414906 C 4.5427013,10.663963 4.5325081,10.665945 4.5325081,10.665945 L 4.9390322,8.4331274 c -8.3e-6,-0.00184 -8.59e-5,-0.00365 -8.59e-5,-0.00551 V 5.2090453 c 0,-0.2677671 0.086914,-0.4834183 0.1948517,-0.4834183 z" />
+  <path
+     id="rect9080"
+     style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+     d="M 0.39485173,0.2 C 0.28691379,0.2 0.2,0.41565121 0.2,0.68341827 V 3.9019884 c 0,0.267767 0.0869138,0.4832929 0.19485173,0.4832929 H 5.1508582 C 6.3496476,6.1383367 6.3598407,6.1403184 6.3598407,6.1403184 L 5.9533166,3.9075004 c 8.3e-6,-0.00184 8.6e-5,-0.00365 8.6e-5,-0.00551 V 0.68341827 C 5.9534026,0.41565121 5.8664886,0.2 5.7585508,0.2 Z" />
+  <g
+     id="g19500"
+     style="stroke-width:0.899388;stroke-dasharray:none"
+     transform="matrix(0.1652322,0,0,0.24241286,-12.00629,-6.8391434)">
+    <path
+       style="fill:#ec5242;fill-opacity:1;stroke:#636363;stroke-width:0.899388;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 80.543185,35.731976 22.716065,0.03518"
+       id="path19450" />
+    <path
+       style="fill:#ec5242;fill-opacity:1;stroke:#636363;stroke-width:0.899388;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 80.637996,38.086005 22.716064,0.03518"
+       id="path19450-6" />
+    <path
+       style="fill:#ec5242;fill-opacity:1;stroke:#636363;stroke-width:0.899388;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 80.684846,40.946321 22.716064,0.03518"
+       id="path19450-0" />
+  </g>
+  <g
+     id="g19500-6"
+     transform="matrix(0.1652322,0,0,0.24241286,-7.2370119,-2.3459898)"
+     style="stroke:#ffffff;stroke-width:0.899388;stroke-dasharray:none;stroke-opacity:1">
+    <path
+       style="fill:#ec5242;fill-opacity:1;stroke:#ffffff;stroke-width:0.899388;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 80.543185,35.731976 22.716065,0.03518"
+       id="path19450-2" />
+    <path
+       style="fill:#ec5242;fill-opacity:1;stroke:#ffffff;stroke-width:0.899388;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 80.637996,38.086005 22.716064,0.03518"
+       id="path19450-6-6" />
+    <path
+       style="fill:#ec5242;fill-opacity:1;stroke:#ffffff;stroke-width:0.899388;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 80.684846,40.946321 22.716064,0.03518"
+       id="path19450-0-1" />
+  </g>
+</svg>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="5.2916684mm"
+   height="6.6145792mm"
+   viewBox="0 0 5.2916684 6.6145791"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="facebook-icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#414246"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#ffffff"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="8.3352096"
+     inkscape:cx="-12.897096"
+     inkscape:cy="35.272058"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="text1799">
+    <inkscape:grid
+       type="xygrid"
+       id="grid132"
+       originx="-31.612434"
+       originy="-13.721884" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="132.42871"
+       y="117.85603"
+       width="59.438766"
+       height="86.166245"
+       id="rect1859" />
+    <rect
+       x="126.3194"
+       y="136.83733"
+       width="79.533844"
+       height="113.57043"
+       id="rect1853" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-31.612433,-13.721884)">
+    <g
+       aria-label="f"
+       transform="scale(0.96206343,1.0394325)"
+       id="text1799"
+       style="font-size:20.0622px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';opacity:0.75;stroke:#000000;stroke-width:0.355434">
+      <path
+         d="m 34.434505,19.03273 h 1.091005 v -4.175625 c 0,-0.441036 0.395489,-0.668669 1.145555,-0.668669 0.354576,0 0.655599,-0.02657 0.950245,0.01155 l 0.01291,-0.487726 c -0.339422,-0.0023 -0.417653,-0.0075 -0.88133,-0.0075 -1.391031,0 -2.318385,0.490831 -2.318385,1.223521 z m -0.940789,-2.32317 3.417382,-0.01203 0.01425,-0.450444 -3.472742,-0.01155 z"
+         id="path1863"
+         sodipodi:nodetypes="ccssccsscccccc"
+         style="opacity:1;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text1851"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.9999px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1853);display:inline;opacity:0.75;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.13386;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text1857"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.9999px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1859);display:inline;opacity:0.75;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.13386;stroke-dasharray:none" />
+  </g>
+</svg>

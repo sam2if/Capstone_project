@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="7.8698506mm"
+   height="6.6145835mm"
+   viewBox="0 0 7.8698512 6.6145834"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="hamburger-icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="8"
+     inkscape:cx="-17.4375"
+     inkscape:cy="29"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showborder="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid139"
+       originx="22.451277"
+       originy="3.8962584" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(22.451266,3.8962592)">
+    <rect
+       style="fill:#424146;fill-opacity:1;stroke:#424146;stroke-width:0.200135;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect2013"
+       width="7.6390991"
+       height="1.0495925"
+       x="-22.351198"
+       y="-3.7961917"
+       ry="0"
+       rx="0" />
+    <rect
+       style="fill:#424146;fill-opacity:1;stroke:#424146;stroke-width:0.206007;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect2013-7"
+       width="7.62995"
+       height="1.105407"
+       x="-22.337528"
+       y="-1.2615534"
+       ry="0"
+       rx="0" />
+    <rect
+       style="fill:#424146;fill-opacity:1;stroke:#424146;stroke-width:0.205212;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect2013-7-5"
+       width="7.6361675"
+       height="1.0960019"
+       x="-22.320189"
+       y="1.5197163"
+       ry="0"
+       rx="0" />
+  </g>
+</svg>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="52.916615mm"
+   height="19.843657mm"
+   viewBox="0 0 52.916615 19.843657"
+   version="1.1"
+   id="svg250"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="partner-logo-1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview252"
+     pagecolor="#414246"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     showborder="false"
+     inkscape:zoom="2.0838024"
+     inkscape:cx="151.16596"
+     inkscape:cy="144.92737"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid371"
+       originx="-22.667982"
+       originy="-21.735265" />
+  </sodipodi:namedview>
+  <defs
+     id="defs247" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-22.667982,-21.735262)">
+    <g
+       id="g246"
+       transform="matrix(1.0000554,0,0,0.80506804,-0.00128241,6.3377087)">
+      <path
+         style="fill:#a1a1a3;stroke:#a1a1a3;stroke-width:0.0310038"
+         id="path477"
+         sodipodi:type="arc"
+         sodipodi:cx="32.444199"
+         sodipodi:cy="31.821815"
+         sodipodi:rx="2.8822865"
+         sodipodi:ry="3.0832274"
+         sodipodi:start="6.1362509"
+         sodipodi:end="6.1298623"
+         sodipodi:open="true"
+         sodipodi:arc-type="arc"
+         d="m 35.295427,31.370412 a 2.8822865,3.0832274 0 0 1 -2.42469,3.500683 2.8822865,3.0832274 0 0 1 -3.276405,-2.588135 2.8822865,3.0832274 0 0 1 2.414225,-3.508951 2.8822865,3.0832274 0 0 1 3.284116,2.576927" />
+      <g
+         id="g652"
+         transform="matrix(0.16999666,0,0,0.18318973,17.313476,18.425692)">
+        <path
+           sodipodi:type="star"
+           style="fill:#a1a1a3;stroke:#a1a1a3;stroke-width:0.3"
+           id="path616"
+           inkscape:flatsided="false"
+           sodipodi:sides="4"
+           sodipodi:cx="78.440903"
+           sodipodi:cy="65.008324"
+           sodipodi:r1="46.938671"
+           sodipodi:r2="4.2745314"
+           sodipodi:arg1="1.5507914"
+           sodipodi:arg2="2.3361896"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="M 79.379845,111.9376 75.479419,68.090731 31.511624,65.947266 75.358496,62.04684 l 2.143465,-43.967795 3.900425,43.846872 43.967794,2.143465 -43.84687,3.900425 z"
+           transform="matrix(1.2453719,0,0,1.1537819,-7.7294248,-2.7775891)" />
+        <path
+           sodipodi:type="star"
+           style="fill:#a1a1a3;stroke:#a1a1a3;stroke-width:0.3"
+           id="path616-6"
+           inkscape:flatsided="false"
+           sodipodi:sides="4"
+           sodipodi:cx="78.440903"
+           sodipodi:cy="65.008324"
+           sodipodi:r1="46.938671"
+           sodipodi:r2="4.2745314"
+           sodipodi:arg1="1.5507914"
+           sodipodi:arg2="2.3361896"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="M 79.379845,111.9376 75.479419,68.090731 31.511624,65.947266 75.358496,62.04684 l 2.143465,-43.967795 3.900425,43.846872 43.967794,2.143465 -43.84687,3.900425 z"
+           transform="matrix(0.60990833,0.57377267,-0.63681816,0.572934,82.834805,-9.7009178)" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:18.1878px;font-family:eurofurence;-inkscape-font-specification:'eurofurence, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#a1a1a3;stroke:#a1a1a3;stroke-width:0.276194"
+         x="70.27771"
+         y="25.423347"
+         id="text714"
+         transform="scale(0.6191993,1.6149889)"><tspan
+           sodipodi:role="line"
+           id="tspan712"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:18.1878px;font-family:eurofurence;-inkscape-font-specification:'eurofurence, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.276194"
+           x="70.27771"
+           y="25.423347">SunNXT</tspan></text>
+    </g>
+  </g>
+</svg>

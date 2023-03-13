@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="11.405558mm"
+   height="11.279408mm"
+   viewBox="0 0 11.405558 11.279407"
+   version="1.1"
+   id="svg1537"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="menu-cross-icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1539"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="8.3352097"
+     inkscape:cx="-7.4383252"
+     inkscape:cy="11.63738"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4359">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2028"
+       originx="-0.78449023"
+       originy="-0.94583163" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1534" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.78449023,-0.94583185)">
+    <g
+       id="g4359">
+      <g
+         id="g4363"
+         transform="matrix(0.71185108,0.7102117,-0.7022531,0.71991846,6.5209,-2.7773461)">
+        <rect
+           style="fill:#424146;stroke:#424146;stroke-width:0.0779315;paint-order:fill markers stroke"
+           id="rect4323"
+           width="12.898915"
+           height="2.6881287"
+           x="-0.0037670096"
+           y="5.3577838"
+           transform="matrix(0.99998819,-0.00485901,-0.00485965,0.99998819,0,0)" />
+        <rect
+           style="fill:#424146;stroke:#424146;stroke-width:0.0767589;paint-order:fill markers stroke"
+           id="rect4323-3"
+           width="13.1726"
+           height="2.5536666"
+           x="-0.0072065284"
+           y="-7.8801703"
+           transform="rotate(90)" />
+      </g>
+    </g>
+  </g>
+</svg>
