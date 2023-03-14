@@ -260,6 +260,10 @@ header {
     display: flex;
 }
 
+.divide {
+    display: flex;
+}
+
 .img1 {
     margin: 2em;
 }
@@ -324,20 +328,218 @@ header {
 	margin-top: 2em;
 	border: 2px solid rgb(242, 234, 234);
 	padding: 1em 8em;
+    margin: 2em;
+}
+
+.thirds {
+    display: flex;
 }
 
 hr {
 	margin-top: 3em;
 }
 
+.thirdl {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: url("images/header-text-bg.svg");
+    padding: 5em 10em;
+    margin-left: 2em;
+}
+
+.thirdl h1 {
+    color: white;
+}
+
+.thirdl p {
+    color: white;
+}
+
 .footers {
-	background: black;
+    margin-top: 2em;
+    margin-bottom: 0.5em;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+	background: rgb(33, 32, 32);
+    padding: 3em;
 }
 
 .copys {
 	display: flex;
+    flex-direction: column;
 }
 
 .copys p {
 	color: white;
+}
+
+.copys h4 {
+	color: white;
+}
+
+@media screen and (max-width: 768px) {
+    .top-right,
+    .nav {
+        display: none;
+    }
+
+    .home-page {
+        height: auto;
+    }
+
+    .home-pages {
+        height: auto;
+        background-size: contain;
+    }
+
+    .paragraphab {
+        width: 90%;
+        line-height: 1.5em;
+    }
+
+    .paragraphab p {
+        padding: 1em;
+    }
+
+    .top-page {
+        display: none;
+    }
+
+    .home {
+        padding-left: 2em;
+    }
+
+    .home h3 {
+        font-size: 1rem;
+    }
+
+    .home h1 {
+        font-size: 2rem;
+    }
+
+    .hom-foots {
+        padding-left: 0;
+    }
+
+    .hom-foot h3 {
+        font-size: 1.5rem;
+    }
+
+    .hom-foot h4 {
+        font-size: 0.8rem;
+    }
+
+    .paragraph {
+        margin-left: 2em;
+        width: 80%;
+    }
+
+    .primary p {
+        font-size: 1.8em;
+        padding-left: 1em;
+    }
+
+    .secondary {
+        width: 80%;
+    }
+
+    .thirds {
+        flex-wrap: wrap;
+    }
+
+    .thirdl {
+        padding: 3em 2em;
+        margin-bottom: 1em;
+    }
+
+    .footers {
+        width: 80%;
+        padding: 1em;
+        width: 90%;
+    }
+    .hom-foot {
+        padding-left: 2em;
+    }
+
+    .main-program {
+        margin-top:3em;
+    }
+
+    .program-contain {
+        flex-wrap: wrap;
+        width: 95%;
+    }
+
+    .programs {
+        flex-direction: row;
+        padding: 0;
+    }
+
+    .programs h2 {
+        padding: 0.3em;
+    }
+
+    .prog-details p {
+        line-height: 1.2em;
+    }
+
+    .speakers {
+        flex-wrap: wrap;
+        flex-direction: row;
+        margin: 0;
+        padding: 0;
+    }
+
+    .spc {
+        width: 90%;
+    }
+
+    .divide {
+        display: flex;
+        margin-bottom: 2em;
+    }
+
+    .speakers-img img {
+        width: 100px;
+    }
+
+    .partner-title p {
+        color: rgb(197, 191, 191);
+        font-size: 1rem;
+    }
+
+    .speakers-img {
+        margin: 0 1em;
+    }
+
+    .names {
+        flex-wrap: wrap;
+        width: 90%;
+        padding-left: 2em;
+    }
+
+    .footer {
+        width: 65%;
+    }
+
+    .hls {
+        width: 34px;
+        margin-left: 1em;
+    }
+
+    .copys h4 {
+        font-size: 0.5rem;
+    }
+
+    .copys p {
+        font-size: 0.4rem;
+    }
+
+    .m-page {
+        margin-top: 2em;
+    }
+    
 }
