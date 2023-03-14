@@ -9,6 +9,14 @@
     text-decoration: none;
 }
 
+.hamburger {
+    display: none;
+}
+
+.menu-close {
+    display: none;
+}
+
 .top-page {
     width: 100%;
     height: 2em;
@@ -43,12 +51,19 @@ header {
 .home > h1 {
     color: red;
     font-size: 4rem;
-    font-weight: bold;
+    font-weight: 900;
+    -webkit-background-clip: text;
+    color: transparent;
+    background-image: url("images/header-text-bg.svg");
 }
 
 .top-right {
     display: flex;
     align-items: center;
+}
+
+.mo img {
+    width: 150px;
 }
 
 .nav {
@@ -186,6 +201,10 @@ header {
     
 }
 
+.join {
+    display: none;
+}
+
 .featured-speakers {
     margin-top: 3em;
 }
@@ -260,6 +279,10 @@ header {
     display: flex;
 }
 
+.names img {
+    width: 150px;
+}
+
 .divide {
     display: flex;
 }
@@ -320,8 +343,10 @@ header {
 	color: #545862;
 }
 .secondary {
+    margin-top: 3em;
 	padding: 1.5em;
 	width: 47%;
+    line-height: 2em;
 }
 
 .third {
@@ -333,6 +358,7 @@ header {
 
 .thirds {
     display: flex;
+    margin: 2em;
 }
 
 hr {
@@ -380,10 +406,35 @@ hr {
 	color: white;
 }
 
+.more {
+    display: none;
+}
+
+.less {
+    display: none;
+}
+
 @media screen and (max-width: 768px) {
     .top-right,
     .nav {
         display: none;
+    }
+
+    body {
+        background: url("images/bkgrnd.png");
+        background-repeat: no-repeat;
+    }
+
+    .hamburger {
+        display: flex;
+        width: 100%;
+    }
+
+    header {
+        background: url("images/bkgrnd.png");
+        justify-content: space-between;
+        margin: 2em;
+        width: 100%;
     }
 
     .home-page {
@@ -393,6 +444,24 @@ hr {
     .home-pages {
         height: auto;
         background-size: contain;
+    }
+
+    .more {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 95%;
+        border: 1px solid black;
+        padding: 1em;
+    }
+
+    .less {
+        display: none;
+        justify-content: center;
+        align-items: center;
+        width: 95%;
+        border: 1px solid black;
+        padding: 1em;
     }
 
     .paragraphab {
@@ -413,7 +482,7 @@ hr {
     }
 
     .home h3 {
-        font-size: 1rem;
+        font-size: 1.7rem;
     }
 
     .home h1 {
@@ -493,6 +562,17 @@ hr {
         padding: 0;
     }
 
+    .join {
+        display: block;
+        background: rgb(211, 40, 40);
+        padding: 1.5em;
+        margin: 2em;
+    }
+
+    .see {
+        display: none;
+    }
+
     .spc {
         width: 90%;
     }
@@ -527,7 +607,7 @@ hr {
 
     .hls {
         width: 34px;
-        margin-left: 1em;
+        margin-left: 5em;
     }
 
     .copys h4 {
