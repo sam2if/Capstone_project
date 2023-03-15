@@ -110,7 +110,8 @@ header {
     width: 47%;
     border: 5px solid #fff;
     background: #fcfbfb;
-    padding: 0.5em;
+    padding: 1em;
+    line-height: 1.5em;
 }
 
 .paragraphab p{
@@ -343,7 +344,7 @@ header {
 	color: #545862;
 }
 .secondary {
-    margin-top: 3em;
+    margin: 3em;
 	padding: 1.5em;
 	width: 47%;
     line-height: 2em;
@@ -358,7 +359,7 @@ header {
 
 .thirds {
     display: flex;
-    margin: 2em;
+    margin: 5em;
 }
 
 hr {
