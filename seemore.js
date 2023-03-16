@@ -17,7 +17,7 @@ function show() {
 
 function hide() {
   for (let i = 1; i < listItems.length; i += 1) {
-    listArray[i].toggleAttribute('id'); 
+    listArray[i].toggleAttribute('id');
   }
   seemore.style.display = 'none';
   seeless.style.display = 'flex';
