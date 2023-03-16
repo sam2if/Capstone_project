@@ -1,104 +1,83 @@
 
-# 📗 Table of Contents
+<h3 id = "readme-top"><b>Capstone Project </b></h3>
+<!-- TABLE OF CONTENTS -->
 
+# 📗 Table of Contents
+- [📖 Title](#Team Event)
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
+  - [🚀 Live Demo from loom](#Live-Loom-demo)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
+- [🙏 Credit](#Credit)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
+- [❓ FAQ](#faq)
 - [📝 License](#license)
+
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Capstone Project] <a name="about-project"></a>
-
-
-**Capstone Project** is a personal projects which i have made during microverse studies at the end of the first module
-
-## 🛠 Built With <a name="built-with"></a>
-
-    .Webhint
-    .Styleint
-    .html
-    .css
-
-### Tech Stack <a name="tech-stack"></a>
-
-### Key Features <a name="key-features"></a>
-
-- **adding some emojis to the html file.**
-- **adding some more interesting background to webpage**
-- **adding more semantic tags to make it rwd**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+# 📖 [Capstone Project] <a name="about-project">https://github.com/sam2if/Capstone_project.git</a>
 
 
 
-## 🚀 Live Demo <a name="live-demo"></a>
+# Team Event
+This Capstone Project is based on an online website for a conference with a slogan "Reduce, Reuse and Recycle". 
+ You will learn how you can create enterprise value, empower greater worker productivity, and make the world a better place through advanced technology. 
+
+## Built With
+
+- Html
+- Css
+- JavaScript
+
+### Key Features <a name="key-features">
+- **[key_feature_1]** Capstone Project: built with CSS, Html and JavaScript.
+- **[key_feature_2]** Capstone Project: Mobile Version.
+- **[key_feature_3]** Capstone Project: The Home me page.
+- **[key_feature_4]** Capstone Project: desktop version.
+- **[key_feature_5]** Capstone Project: About me page for both mobile and desktop version.
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### Home page
 
-<!-- GETTING STARTED -->
+[screenshot for desktop version](./img/desktop-screen-shot.png) 
+[screenshot for mobile version](./img/mobile-screen-shot.png)
 
-## 💻 Getting Started <a name="getting-started"></a>
+## Live Demo
 
-To get a local copy up and running, follow these steps.
+[Live Demo Link](https://sam2if.github.io/)
+
+## Live Loom demo
+
+[Live Demo from loom ](https://www.loom.com/share/71560190b49d49ab89b43cc9201f7a4f)
+
+## Getting Started
+
+To run this project clone it with `git clone https://github.com/sam2if/Capstone_project.git`
+then run from a browser
+
+To get a local copy.
 
 ### Prerequisites
+In order to run this project you need:
 
-
-In order to run this project you need: have basic knowledge of html and css.
+1. A computer with a code writer, I recommend Visual Studio Code.
+2. A pre-knowledge of HTML,CSS and JavaScript.
 
 ### Install
 
-Install this project with: vscode, eslint, node_js
+Install linters to handle some common Errors, You can have description about [Linters here](https://github.com/microverseinc/linters-config)
 
-### Setup
-
-1) open your local terminal
-2) run git clone https://github.com/sam2if/Capstone_project.git
-
-
-
-### Usage
-
-To run the project, execute the following command: https://github.com/sam2if/Capstone_project.git
-
-
-### Run tests
-
-npx eslint .
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Deployment
-
-You can deploy this project using: github-pages
-
-<!-- AUTHORS -->
-
-## 👥 Authors <a name="authors"></a>
-
-👤 **Author1**
+👤 **Amarachi Dimkpa**
 
 - GitHub: [samuel_lemma](https://github.com/sam2if)
 - Twitter: [samuel_lemma](https://twitter.com/samuellemma3733)
 - LinkedIn: [samuel_lemma](https://www.linkedin.com/in/samuel-lemma-7479b1214/)
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,40 +85,26 @@ You can deploy this project using: github-pages
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **I will modify the style.css with more interesting background**
-- [ ] **I will add javascript code to add some function to buttons**
-- [ ] **I will add some emojis to make it very simple**
+- [ ] **[new_feature_1]** Add more behaviour via Javascript.
+- [ ] **[new_feature_2]** Capstone Project: details popup window.
+- [ ] **[new_feature_3]** Capstone Project: validate contact form.
+- [ ] **[new_feature_4]** Capstone Project: preserve data in the browser.
+- [ ] **[new_feature_5]** Every other pages will be added example news page.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## Credit
 
-<!-- CONTRIBUTING -->
+[@Cindy Shin](https://www.behance.net/adagio07) Thanks for this amazing design
 
-## 🤝 Contributing <a name="contributing"></a>
+## Show your support
 
-Contributions, issues, and feature requests are welcome!
+Give a ⭐️ if you like this project!
 
-Feel free to check the [issues page](../../issues/).
+## Acknowledgments
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- I am grateful to everyone whose code was used
+- Inspiration
+- etc
 
-<!-- SUPPORT -->
-
-## ⭐️ Show your support <a name="support"></a>
-
-If you like this project give a star!
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-I would like to thank [Cindy_Shin](https://www.behance.net/adagio07) the [the_original_designer](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) in Behance. for the design.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## 📝 License <a name="license"></a>
+## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
