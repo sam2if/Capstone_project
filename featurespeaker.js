@@ -24,6 +24,7 @@ featureSpeaker.innerHTML = `<div class="contain">
                   <div class="speakers-profession">
                   ${speakers[0].profession}
                   </div>
+                  <hr>
                   <div class="speakers-details">
                   ${speakers[0].description}
                   </div>
@@ -38,36 +39,7 @@ featureSpeaker.innerHTML = `<div class="contain">
                   <div class="speakers-profession">
                   ${speakers[0].profession}
                   </div>
-                  <div class="speakers-details">
-                  ${speakers[0].description}
-                  </div>
-              </div>
-          </div>
-      </div>
-      <div class="speakers">
-          <div class="divide">
-              <div class="speakers-img">
-              ${speakers[0].image}
-              </div>
-              <div class="speakers-name">
-                  ${speakers[0].name}
-                  <div class="speakers-profession">
-                  ${speakers[0].profession}
-                  </div>
-                  <div class="speakers-details">
-                  ${speakers[0].description}
-                  </div>
-              </div>
-          </div>
-          <div class="divide">
-              <div class="speakers-img">
-              ${speakers[0].image}
-              </div>
-              <div class="speakers-name">
-                  ${speakers[0].name}
-                  <div class="speakers-profession">
-                  ${speakers[0].profession}
-                  </div>
+                  <hr>
                   <div class="speakers-details">
                   ${speakers[0].description}
                   </div>
@@ -84,6 +56,7 @@ featureSpeaker.innerHTML = `<div class="contain">
                   <div class="speakers-profession">
                   ${speakers[0].profession}
                   </div>
+                  <hr>
                   <div class="speakers-details">
                   ${speakers[0].description}
                   </div>
@@ -98,6 +71,39 @@ featureSpeaker.innerHTML = `<div class="contain">
                   <div class="speakers-profession">
                   ${speakers[0].profession}
                   </div>
+                  <hr>
+                  <div class="speakers-details">
+                  ${speakers[0].description}
+                  </div>
+              </div>
+          </div>
+      </div>
+      <div class="speakers">
+          <div class="divide">
+              <div class="speakers-img">
+              ${speakers[0].image}
+              </div>
+              <div class="speakers-name">
+                  ${speakers[0].name}
+                  <div class="speakers-profession">
+                  ${speakers[0].profession}
+                  </div>
+                  <hr>
+                  <div class="speakers-details">
+                  ${speakers[0].description}
+                  </div>
+              </div>
+          </div>
+          <div class="divide">
+              <div class="speakers-img">
+              ${speakers[0].image}
+              </div>
+              <div class="speakers-name">
+                  ${speakers[0].name}
+                  <div class="speakers-profession">
+                  ${speakers[0].profession}
+                  </div>
+                  <hr>
                   <div class="speakers-details">
                   ${speakers[0].description}
                   </div>
