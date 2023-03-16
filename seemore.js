@@ -7,9 +7,6 @@ for (let i = 1; i < listItems.length; i + 1) {
   listArray[i].setAttribute('id', 'tohide');
 }
 
-seemore.addEventListener('click', hide);
-seeless.addEventListener('click', show);
-
 function show() {
   for (let i = 1; i < listItems.length; i + 1) {
     listArray[i].setAttribute('id', 'tohide');
@@ -26,3 +23,5 @@ function hide() {
   seeless.style.display = 'flex';
 }
 
+seemore.addEventListener('click', hide);
+seeless.addEventListener('click', show);
