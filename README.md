@@ -134,7 +134,7 @@ If you like this project give a star!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank [Cindy_Shin]https://www.behance.net/adagio07 the [the_original_designer]https://www.behance.net/gallery/29845175/CC-Global-Summit-2015 in Behance. for the design.
+I would like to thank [Cindy_Shin](https://www.behance.net/adagio07) the [the_original_designer](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) in Behance. for the design.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
