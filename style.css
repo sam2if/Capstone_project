@@ -621,7 +621,7 @@ hr {
     width: 120%;
   }
 
-  .copys h4{
+  .copys h4 {
     color: #545862;
     margin-top: 3.5em;
     margin-left: 12em;
@@ -700,7 +700,6 @@ hr {
     width: 100%;
     height: auto;
     margin-top: 3em;
-    display: flex;
     flex-direction: column;
     align-items: center;
     background: rgb(50, 48, 48);
