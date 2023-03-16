@@ -45,8 +45,6 @@ This Capstone Project is based on an online website for a conference with a slog
 
 ### Home page
 
-[screenshot for desktop version](./img/desktop-screen-shot.png) 
-[screenshot for mobile version](./img/mobile-screen-shot.png)
 
 ## Live Demo
 
@@ -73,7 +71,7 @@ In order to run this project you need:
 
 Install linters to handle some common Errors, You can have description about [Linters here](https://github.com/microverseinc/linters-config)
 
-👤 **Amarachi Dimkpa**
+👤 **Samuel Lemma**
 
 - GitHub: [samuel_lemma](https://github.com/sam2if)
 - Twitter: [samuel_lemma](https://twitter.com/samuellemma3733)
