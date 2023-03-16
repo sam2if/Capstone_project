@@ -1,7 +1,7 @@
 const speakers = [
   {
     name: '<h2>Yochai Bancklers</h2>',
-    image: '<img src="images/Jinko-Gotoh.jpg">',
+    image: '<img src="images/Jinko-Gotoh.jpg" class="nnn">',
     profession: '<i>Director of Art Centre Nabi and a board member of CC Korea</i>',
     description: '<p>Bencklers studies commons based peer-production and puplished his seminal book The Wealth Of Networks in 2006</p>',
   },
