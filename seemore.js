@@ -1,14 +1,14 @@
 const seemore = document.querySelector('.more');
 const seeless = document.querySelector('.less');
-const listItems = document.querySelector('#spc').children;
+const listItems = document.querySelector('.spc').children;
 const listArray = Array.from(listItems);
 
-for (let i = 1; i < listItems.length; i + 1) {
+for (let i = 1; i < listItems.length; i++) {
   listArray[i].setAttribute('id', 'tohide');
 }
 
 function show() {
-  for (let i = 1; i < listItems.length; i + 1) {
+  for (let i = 1; i < listItems.length; i++) {
     listArray[i].setAttribute('id', 'tohide');
   }
   seemore.style.display = 'flex';
@@ -16,7 +16,7 @@ function show() {
 }
 
 function hide() {
-  for (let i = 1; i < listItems.length; i + 1) {
+  for (let i = 1; i < listItems.length; i++) {
     listArray[i].toggleAttribute('id');
   }
   seemore.style.display = 'none';

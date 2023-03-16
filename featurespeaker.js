@@ -13,7 +13,7 @@ featureSpeaker.innerHTML = `<div class="contain">
       <p>Featured Speakers</p>
       <div class="hls"></div>
   </div> 
-  <div id="spc">
+  <div class="spc">
       <div class="speakers">
           <div class="divide">
               <div class="speakers-img">
