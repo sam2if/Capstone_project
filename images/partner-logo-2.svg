@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="52.917984mm"
+   height="19.848703mm"
+   viewBox="0 0 52.917984 19.848703"
+   version="1.1"
+   id="svg3375"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="partner-logo-2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3377"
+     pagecolor="#414246"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     showborder="false"
+     inkscape:zoom="2.0838024"
+     inkscape:cx="172.7611"
+     inkscape:cy="49.428871"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3496"
+       originx="-18.771127"
+       originy="-21.100048" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3372">
+    <rect
+       x="418.40451"
+       y="160.93887"
+       width="252.99049"
+       height="112.2332"
+       id="rect6254" />
+    <rect
+       x="486.7655"
+       y="122.38425"
+       width="284.99417"
+       height="89.48304"
+       id="rect6248" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-18.771128,-21.100048)">
+    <path
+       sodipodi:type="star"
+       style="fill:#a1a1a3;fill-opacity:1;stroke:#a1a1a3;stroke-width:2.065"
+       id="path3550"
+       inkscape:flatsided="false"
+       sodipodi:sides="10"
+       sodipodi:cx="66.418594"
+       sodipodi:cy="71.681061"
+       sodipodi:r1="54.018566"
+       sodipodi:r2="32.311069"
+       sodipodi:arg1="1.1187332"
+       sodipodi:arg2="1.90786"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 90.015111,120.27334 55.732761,102.17398 56.94675,124.86273 39.850285,90.069376 27.496312,109.13852 34.116,70.94106 12.912863,79.106841 40.720208,52.095399 18.766785,46.238763 57.140327,40.730795 42.822078,23.088779 77.104428,41.188141 75.890438,18.499394 92.986904,53.292746 105.34088,34.223599 98.721189,72.421062 119.92433,64.255281 92.11698,91.266723 114.0704,97.123358 75.696862,102.63133 Z"
+       inkscape:transform-center-x="1.8425088"
+       inkscape:transform-center-y="0.33224997"
+       transform="matrix(0.13020964,0,0,0.18502807,17.183423,17.761391)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.3305px;font-family:eurofurence;-inkscape-font-specification:'eurofurence, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#a1a1a3;fill-opacity:1;stroke:#a1a1a3;stroke-width:0.325923;stroke-dasharray:none"
+       x="48.163475"
+       y="24.998543"
+       id="text6194"
+       transform="scale(0.6982031,1.432248)"
+       inkscape:transform-center-x="-0.053287075"
+       inkscape:transform-center-y="-1.8881108"><tspan
+         sodipodi:role="line"
+         id="tspan6192"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.3305px;font-family:eurofurence;-inkscape-font-specification:'eurofurence, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.325923;stroke-dasharray:none"
+         x="48.163475"
+         y="24.998543">Star Corp</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text6246"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.3334px;font-family:eurofurence;-inkscape-font-specification:'eurofurence, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect6248);display:inline;fill:#a1a1a3;fill-opacity:1;stroke:#a1a1a3;stroke-width:7.80472" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text6252"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:eurofurence;-inkscape-font-specification:'eurofurence, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect6254);display:inline;fill:#a1a1a3;fill-opacity:1;stroke:#a1a1a3;stroke-width:7.80472" />
+  </g>
+</svg>

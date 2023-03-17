@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="5.2916665mm"
+   height="5.2916665mm"
+   viewBox="0 0 5.2916665 5.2916665"
+   version="1.1"
+   id="svg6097"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="capstone-project-1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6099"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="true"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="8.3352095"
+     inkscape:cx="29.633328"
+     inkscape:cy="37.551546"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g5152"
+     showborder="false"
+     borderlayer="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid22068"
+       snapvisiblegridlinesonly="true"
+       dotted="false"
+       enabled="true"
+       visible="true"
+       color="#000000"
+       opacity="0"
+       originx="-13.11039"
+       originy="-0.053323527" />
+  </sodipodi:namedview>
+  <defs
+     id="defs6094">
+    <symbol
+       id="PetsOnLeash_Inv">
+      <title
+         id="title17277">Pets On Leash</title>
+      <rect
+         x="0.5"
+         y="0.5"
+         width="71"
+         height="71"
+         ry="6"
+         style="stroke:none"
+         id="rect17279" />
+      <g
+         style="fill:#ffffff;stroke:none"
+         id="g17287">
+        <path
+           d="M 36.5,56.5 C 39,60.625 32.75,64 30.5,60 L 24.25,49.5 v 8.75 a 3.5,3.5 0 0 1 -7,0 V 35.5 L 12.5,32.75 c -2,-1.5 0,-4.5 2,-3.5 l 3,1.75 H 41 l 11,5.25 V 45 c 0,0.5 0,1.5 -1.25,1.5 v 11.875 a 3.5,3.5 0 0 1 -7,0 V 46.5 H 30.5 Z"
+           id="path17281" />
+        <path
+           d="M 41,31 11,16.75 v -3 L 42,28.5 Z"
+           id="path17283" />
+        <path
+           d="m 42,28.5 10,4.75 V 31.5 h 8 L 63,25 42,15 Z"
+           id="path17285" />
+      </g>
+    </symbol>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-19.596298,-2.6266267)">
+    <g
+       id="g5152"
+       transform="matrix(0.94651345,0,0,0.93692542,0.08508557,0.68709396)">
+      <g
+         id="g562"
+         transform="matrix(0.30489178,0.31294584,-0.31043751,0.30866988,17.798197,-6.189463)">
+        <rect
+           style="fill:#000000;stroke:#000000;stroke-width:0"
+           id="rect333"
+           width="1.4749541"
+           height="2.8441858"
+           x="26.246344"
+           y="2.0701041"
+           rx="0"
+           ry="0" />
+        <rect
+           style="fill:#000000;stroke:#000000;stroke-width:0"
+           id="rect333-3"
+           width="1.4900479"
+           height="2.8825684"
+           x="7.7225647"
+           y="-33.476311"
+           rx="0"
+           ry="0"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#000000;stroke:#000000;stroke-width:0"
+           id="rect333-3-5"
+           width="1.4900479"
+           height="2.8825684"
+           x="7.7225647"
+           y="-23.496342"
+           rx="0"
+           ry="0"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#000000;stroke:#000000;stroke-width:0"
+           id="rect333-3-5-3"
+           width="1.474954"
+           height="2.9120672"
+           x="-27.721296"
+           y="-14.905223"
+           rx="0"
+           ry="0"
+           transform="scale(-1)" />
+      </g>
+    </g>
+  </g>
+</svg>

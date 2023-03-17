@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="52.916664mm"
+   height="19.84375mm"
+   viewBox="0 0 52.916666 19.843749"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="partner-logo-3.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#414246"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     showborder="false"
+     inkscape:zoom="2.9469417"
+     inkscape:cx="231.08703"
+     inkscape:cy="54.972245"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid132"
+       originx="-50.185837"
+       originy="-10.29903" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : -85.156239 : 1"
+       inkscape:vp_y="0 : 999.99989 : 0"
+       inkscape:vp_z="297.00002 : -85.156239 : 1"
+       inkscape:persp3d-origin="148.5 : -120.15624 : 1"
+       id="perspective462" />
+    <rect
+       x="538.36383"
+       y="129.31039"
+       width="671.19653"
+       height="171.58078"
+       id="rect4001" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-97.626191,-59.533861)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,1.6298007,2.6051125)"
+       id="text3999"
+       style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:85.3334px;font-family:'Noto Serif Display';-inkscape-font-specification:'Noto Serif Display, Medium Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect4001);display:inline;fill:#a1a1a3;fill-opacity:1;stroke:#ffffff;stroke-width:0.680315" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.5778px;font-family:'Noto Serif Display';-inkscape-font-specification:'Noto Serif Display, Medium Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#a1a1a3;fill-opacity:1;stroke:#ffffff;stroke-width:0.18"
+       x="214.3279"
+       y="62.019936"
+       id="text4007"><tspan
+         sodipodi:role="line"
+         id="tspan4005"
+         style="stroke-width:0.18"
+         x="214.3279"
+         y="62.019936" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.50635px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:42.5851;fill:#a1a1a3;stroke:#a1a1a3;stroke-width:0.3"
+       x="78.25634"
+       y="63.188381"
+       id="text842"
+       transform="matrix(1.7681766,0,0,1.7724575,-39.462472,-37.091028)"><tspan
+         x="78.25634"
+         y="63.188381"
+         id="tspan307">LOTUS</tspan></text>
+  </g>
+</svg>
