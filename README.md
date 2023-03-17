@@ -52,7 +52,7 @@ This Capstone Project is based on an online website for a conference with a slog
 
 ## Live Loom demo
 
-[Live Demo from loom ](https://www.loom.com/share/71560190b49d49ab89b43cc9201f7a4f)
+[Live Demo from loom ](https://www.loom.com/share/e5a70bde65564b94be28ef1b86d5efb8)
 
 ## Getting Started
 

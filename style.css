@@ -710,8 +710,13 @@ hr {
   }
 
   .names {
+    flex-direction: row;
     flex-wrap: wrap;
     margin-left: 3em;
+  }
+
+  .names img {
+    width: 100px;
   }
 
   .speakers-img {
